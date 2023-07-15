@@ -1,0 +1,22 @@
+.icon-button {
+  margin: 100% 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.plane-icon-container {
+  display: flex;
+  align-items: center;
+  transform: skewY(10deg);
+}
+
+.plane-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.reverse {
+  transform: skewY(-40deg);
+  transform: scaleY(-1);
+}

@@ -1,0 +1,30 @@
+.line-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+  }
+  .dot2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(112, 238, 196);
+  }
+  
+  .line {
+    width: 90px;
+    height: 1px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+  }
+  .line2 {
+    width: 30px;
+    background-color: black;
+    height: 1px;
+  }  
